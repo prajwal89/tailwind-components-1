@@ -295,6 +295,9 @@
 *   Tailwind CSS Avatar Variants: [tailwindcomponents.com/component/avatar-variants](https://tailwindcomponents.com/component/avatar-variants)
 *   Tailwind CSS Avatar Sizes: [tailwindcomponents.com/component/avatar-sizes](https://tailwindcomponents.com/component/avatar-sizes)
 *   Tailwind CSS Avatar: [tailwindcomponents.com/component/avatar-1](https://tailwindcomponents.com/component/avatar-1)
+*   Responsive avatars grid: [tailwindflex.com/lukas-muller/responsive-user-avatars-grid](https://tailwindflex.com/lukas-muller/responsive-user-avatars-grid)
+*   Avatar group: [tailwindflex.com/laurits/avatar-group-2](https://tailwindflex.com/laurits/avatar-group-2)
+*   Avatar with activity indicator: [tailwindflex.com/prashant/avatar-with-activity-indicator](https://tailwindflex.com/prashant/avatar-with-activity-indicator)
 
 ## Badge
 
