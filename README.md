@@ -372,6 +372,8 @@
 *   Breadcrumbs: [tailwindcomponents.com/component/breadcrumbs-1](https://tailwindcomponents.com/component/breadcrumbs-1)
 *   Breadcrumbs: [tailwindcomponents.com/component/breadcrumbs](https://tailwindcomponents.com/component/breadcrumbs)
 *   Breadcrumb: [mambaui.com/components/breadcrumb](https://mambaui.com/components/breadcrumb)
+*   Breadcrumb with icon: [tailwindflex.com/samuel33/breadcrumb-with-icon](https://tailwindflex.com/samuel33/breadcrumb-with-icon)
+*   Minimal Breadcrumb: [tailwindflex.com/prajwal/breadcrumbs](https://tailwindflex.com/prajwal/breadcrumbs)
 
 ## Button
 
