@@ -343,6 +343,8 @@
 *   badge large rectangle bullet, badge large rectangle bullet: [tailwinduikit.com/components/webapp/UI\_element/badge#large\_rectangle\_bullet](https://tailwinduikit.com/components/webapp/UI_element/badge#large_rectangle_bullet)
 *   Badges Basic, Badges Pills, Badges Small, Badges Small pills: [tinywind.dev/components/badges](https://tinywind.dev/components/badges)
 *   Badges Basic examples, Badges Sizes, Badges Button, Badges Colors, Badges Pills: [tailwind-elements.com/docs/standard/components/badges/](https://tailwind-elements.com/docs/standard/components/badges/)
+*   Info badges: [tailwindflex.com/mohit/info-badges](https://tailwindflex.com/mohit/info-badges)
+*   Multicolor badges: [tailwindflex.com/mr-robot/badges-multicolor](https://tailwindflex.com/mr-robot/badges-multicolor)
 
 ## Breadcrumb
 
