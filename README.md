@@ -234,6 +234,11 @@
 *   Message notification: [tailwindcomponents.com/component/message-notification](https://tailwindcomponents.com/component/message-notification)
 *   Upload notification: [tailwindcomponents.com/component/upload-notification](https://tailwindcomponents.com/component/upload-notification)
 *   Notification Component: [tailwindcomponents.com/component/notification-component](https://tailwindcomponents.com/component/notification-component)
+*   Mono color alert: [tailwindflex.com/team-tailwindflex/alert-mono-color](https://tailwindflex.com/team-tailwindflex/alert-mono-color)
+*   Dismissible notification: [tailwindflex.com/prashant/floating-dismissible-notification](https://tailwindflex.com/prashant/floating-dismissible-notification)
+*   Basic alert: [tailwindflex.com/krishna/tailwind-css-alert-2](https://tailwindflex.com/krishna/tailwind-css-alert-2)
+*   Promotional notification: [tailwindflex.com/laurits/promotional-notification](https://tailwindflex.com/laurits/promotional-notification)
+*   Notification with avatar: [tailwindflex.com/prashant/notification-alert-section](https://tailwindflex.com/prashant/notification-alert-section)
 
 ## Avatar
 
