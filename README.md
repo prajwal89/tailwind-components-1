@@ -775,6 +775,17 @@
 *   Tailwind CSS hover button effect: [tailwindcomponents.com/component/hover-button-effect](https://tailwindcomponents.com/component/hover-button-effect)
 *   Tailwind CSS Button Processing: [tailwindcomponents.com/component/button-processing](https://tailwindcomponents.com/component/button-processing)
 *   With button: [tailwindui.com/components/preview#component-8904b9d9a9fbb9a2313df3975112f9d7](https://tailwindui.com/components/preview#component-8904b9d9a9fbb9a2313df3975112f9d7)
+*   Loading button: [tailwindflex.com/prem/button-with-loading](https://tailwindflex.com/prem/button-with-loading)
+*   Google Play button dark: [tailwindflex.com/simon-scheffer/get-it-on-google-play-button-dark](https://tailwindflex.com/simon-scheffer/get-it-on-google-play-button-dark)
+*  Gradient shadow button: [tailwindflex.com/manon-daniel/gradient-shadow-button](https://tailwindflex.com/manon-daniel/gradient-shadow-button)
+*  Glowing background button: [tailwindflex.com/leon-bachmann/glowing-backround-button](https://tailwindflex.com/leon-bachmann/glowing-backround-button)
+*  Elevated button: [tailwindflex.com/leon-bachmann/elevated-button](https://tailwindflex.com/leon-bachmann/elevated-button)
+*  Playtore button: [tailwindflex.com/arya/playstore-button](https://tailwindflex.com/arya/playstore-button)
+*  AppStore button: [tailwindflex.com/arya/app-store-button](https://tailwindflex.com/arya/app-store-button)
+*  Sign in with buttons: [tailwindflex.com/simon-scheffer/sign-in-with-buttons](https://tailwindflex.com/simon-scheffer/sign-in-with-buttons)
+*  Button with hover gradient effect: [tailwindflex.com/leif99/button-wih-hover-gradient](https://tailwindflex.com/leif99/button-wih-hover-gradient)
+*  Hamburger menu button with open/close animation: [tailwindflex.com/krishna/hamburger-menu-with-openclose-animation](https://tailwindflex.com/krishna/hamburger-menu-with-openclose-animation)
+*  Animated menu button: [tailwindflex.com/ui-dev-amar/hamburger-menu-with-hover-effect](https://tailwindflex.com/ui-dev-amar/hamburger-menu-with-hover-effect)
 
 ## Call to Action
 
