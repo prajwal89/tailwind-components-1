@@ -109,6 +109,8 @@
 *   Accordions Basic: [tinywind.dev/components/accordions](https://tinywind.dev/components/accordions)
 *   Accordion Basic examples, Accordion Flush, Accordion Always open: [tailwind-elements.com/docs/standard/components/accordion/](https://tailwind-elements.com/docs/standard/components/accordion/)
 *   Collapse Basic example, Collapse Horizontal, Collapse Multiple targets, Collapse With Scroll, Collapse Usage: [tailwind-elements.com/docs/standard/components/collapse/](https://tailwind-elements.com/docs/standard/components/collapse/)
+* Minimal Accordion: [tailwindflex.com/piet-vriend/accordion](https://tailwindflex.com/piet-vriend/accordion)
+* FAQ Accordion without using javascript: [tailwindflex.com/sophia-baker/accordion-faq](https://tailwindflex.com/sophia-baker/accordion-faq)
 
 ## Alert/Notification
 
